@@ -8,7 +8,7 @@ https://github.com/LePtC/AutoAni/
 微博 https://m.weibo.cn/5833907098/4483775985711289       
 B站 尚未过审   
 效果图
-！[效果图不见了](https://github.com/MiguangSun/visualization_nCoV/blob/master/%E6%95%88%E6%9E%9C%E5%9B%BE.png)
+![效果图不见了](https://github.com/MiguangSun/visualization_nCoV/blob/master/%E6%95%88%E6%9E%9C%E5%9B%BE.png)
 # 其他说明
 Bgm : Truth and lies    
 data.csv 是最终使用的数据，处理好的最终数据需要命名成data.csv   
